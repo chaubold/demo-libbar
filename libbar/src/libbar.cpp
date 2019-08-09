@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "libbar.h"
+#include "libbar/libbar.h"
 
 namespace libbar
 {
