@@ -3,7 +3,7 @@ from conans import ConanFile, CMake, tools
 
 class LibbarConan(ConanFile):
     name = "libbar"
-    version = "0.1"
+    version = "0.2"
     license = "<Put the package license here>"
     author = "Carsten Haubold <carstenhaubold@googlemail.com>"
     url = "<Package recipe repository url here, for issues about the package>"
