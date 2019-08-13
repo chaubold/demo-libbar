@@ -11,7 +11,7 @@ namespace libbar
 
 	int question_of_life()
 	{
-		return 43;
+		return 42;
 	}
 
 }
